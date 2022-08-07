@@ -1,5 +1,5 @@
 ﻿ int a, b;
-  Console.WriteLine("Введите два числа : ");
+  Console.WriteLine("Введите два числа через Enter : ");
  a = Convert.ToInt32(Console.ReadLine());
  b = Convert.ToInt32(Console.ReadLine());
   if (a > b)
